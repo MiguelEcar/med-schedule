@@ -16,7 +16,9 @@ import javax.persistence.PostLoad;
 import javax.persistence.Table;
 import javax.persistence.Transient;
 import javax.validation.constraints.NotNull;
+import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 import lombok.experimental.FieldNameConstants;
 
 /**
@@ -27,6 +29,8 @@ import lombok.experimental.FieldNameConstants;
 @Table(name = "APPOINTMENT")
 @Data
 @FieldNameConstants(innerTypeName = "Field")
+@AllArgsConstructor
+@NoArgsConstructor
 public class Appointment implements Serializable {
 
     @Id
