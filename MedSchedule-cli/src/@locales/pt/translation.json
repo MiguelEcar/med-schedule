@@ -1,0 +1,36 @@
+{
+    "def_hello": "Olá, ",
+    "def_return": "Voltar",
+    "def_signup": "Cadastrar",
+    "def_signin": "Entrar",
+    "def_signout": "Sair",
+    "def_cancel": "Cancelar",
+    "def_close": "Fechar",
+    "def_removed": "Excluída",
+
+    "def_signin_msg": "Você pode entrar na sua conta Med Schedule aqui.",
+    "def_signup_msg": "Novo Aqui? cadastre-se e crie sua conta.",
+
+    "access_server_error": "Erro ao acessar o servidor! =( ",
+
+    "user_name": "Nome",
+    "user_email": "E-mail",
+    "user_password": "Senha",
+    "user_success": "Usuário Salvo com Sucesso!",
+    "user_fail": "Falha ao Salvar! =(",
+    
+    "def_btn_add": "Adicionar",
+    "def_modal_new": "Novo",
+
+    "doctor_page_title": "Médicos",
+    "doctor_name": "Nome do Médico",
+    "doctor_spec": "Especialidade",
+
+    "customer_page_title": "Pacientes",
+    "customer_name": "Nome do Paciente",
+
+    "appoint_page_title": "Agendamentos",
+    "appoint_date": "Data do Agendamento",
+
+    "": ""
+}
