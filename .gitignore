@@ -1,0 +1,8 @@
+/MedSchedule-api/target/
+/MedSchedule-api/nb-configuration.xml
+/MedSchedule-api/nbactions.xml
+
+/MedSchedule-cli/node_modules/
+/MedSchedule-cli/build/
+/MedSchedule-cli/.vscode
+/MedSchedule-cli/yarn.lock
