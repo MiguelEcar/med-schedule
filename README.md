@@ -10,6 +10,9 @@ For testing purposes, it uses H2 Database, which may be easily replaced for prod
 If changing the Database, Flyway migrations should be adjusted.
 
 Full documentation can be seen at `http://localhost:8080/swagger-ui.html`
+or
+`https://8080-c1d5a9ca-e0dd-4066-a0f5-0a7af9d9eb31.us-east1.cloudshell.dev/swagger-ui.html`
+
 
 ## Endpoints
 - [GET] `/doctor` returns all doctors.
@@ -129,7 +132,14 @@ Response:
 ```
 Response: `Status: 201 Created`
 
-## Running
+## GCP
+
+The API application is deployed on GCP in the following URL:
+
+`https://8080-c1d5a9ca-e0dd-4066-a0f5-0a7af9d9eb31.us-east1.cloudshell.dev`
+
+
+## Local Running
 
 First things first:
 - Make sure `Java` environment variable is correctly set.
