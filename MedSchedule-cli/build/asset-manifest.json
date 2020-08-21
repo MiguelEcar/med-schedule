@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5889454.chunk.css",
+    "main.js": "/static/js/main.09a82066.chunk.js",
+    "main.js.map": "/static/js/main.09a82066.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.159f5baf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.159f5baf.js.map",
+    "static/css/2.ec61de5b.chunk.css": "/static/css/2.ec61de5b.chunk.css",
+    "static/js/2.c6ede19e.chunk.js": "/static/js/2.c6ede19e.chunk.js",
+    "static/js/2.c6ede19e.chunk.js.map": "/static/js/2.c6ede19e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6403f6511b8f30a5cf91636e1464e7d6.js": "/precache-manifest.6403f6511b8f30a5cf91636e1464e7d6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.ec61de5b.chunk.css.map": "/static/css/2.ec61de5b.chunk.css.map",
+    "static/css/main.d5889454.chunk.css.map": "/static/css/main.d5889454.chunk.css.map",
+    "static/js/2.c6ede19e.chunk.js.LICENSE.txt": "/static/js/2.c6ede19e.chunk.js.LICENSE.txt",
+    "static/media/brands.css": "/static/media/fa-brands-400.dc0bd022.woff",
+    "static/media/regular.css": "/static/media/fa-regular-400.e75dfd90.svg",
+    "static/media/solid.css": "/static/media/fa-solid-900.ee09ad75.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.159f5baf.js",
+    "static/css/2.ec61de5b.chunk.css",
+    "static/js/2.c6ede19e.chunk.js",
+    "static/css/main.d5889454.chunk.css",
+    "static/js/main.09a82066.chunk.js"
+  ]
+}
