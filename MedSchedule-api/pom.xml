@@ -12,6 +12,7 @@
     <groupId>com.ecarsm.med</groupId>
     <artifactId>MedSchedule-api</artifactId>
     <version>0.1</version>
+    <packaging>war</packaging>
     
     <name>MedSchedule-api</name>
     <description>MED SCHEDULE API</description>
