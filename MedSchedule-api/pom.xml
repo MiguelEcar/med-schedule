@@ -18,8 +18,10 @@
     <description>MED SCHEDULE API</description>
 
     <properties>
-        <java.version>1.8</java.version>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
         <start-class>com.ecarsm.med.api.MedScheduleApplication</start-class>
+        <spring-boot.repackage.skip>true</spring-boot.repackage.skip>
     </properties>
 
     <dependencies>
