@@ -19,6 +19,7 @@
 
     <properties>
         <java.version>1.8</java.version>
+        <start-class>com.ecarsm.med.api.MedScheduleApplication</start-class>
     </properties>
 
     <dependencies>
