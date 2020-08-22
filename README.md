@@ -29,6 +29,8 @@ or
 
 ## Authentication
 
+Available at: `https://med.ecarsm.com`
+
 Default user credentials:
 Email: `admin@admin.com`
 Password: `123`
