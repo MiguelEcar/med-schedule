@@ -75,6 +75,10 @@
             <groupId>javax.servlet</groupId>
             <artifactId>javax.servlet-api</artifactId>
         </dependency>
+        <dependency>
+            <groupId>org.apache.tomcat.embed</groupId>
+            <artifactId>tomcat-embed-core</artifactId>
+        </dependency>
         <!-- Exclude any jul-to-slf4j -->
         <dependency>
             <groupId>org.slf4j</groupId>
