@@ -18,9 +18,7 @@ public class MedScheduleApplication extends SpringBootServletInitializer {
 
     @Override
     protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-        return application.sources(applicationClass);
+        return application.sources(MedScheduleApplication.class);
     }
-
-    private static Class<MedScheduleApplication> applicationClass = MedScheduleApplication.class;
 
 }
